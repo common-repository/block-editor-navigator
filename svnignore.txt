@@ -1,0 +1,6 @@
+.gitignore
+.git/
+assets/build/build.php
+assets/css
+assets/js
+assets/scss
